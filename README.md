@@ -1,2 +1,2 @@
 # Uity
-Here my fir learning projicts related to Unity3D
+Here my first learning projects related to Unity3D
